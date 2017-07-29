@@ -1,5 +1,5 @@
-# UnraveledMCMod #
-A plugin modification for the UnraveledMC server.
+# PhoenixFreedomMod #
+A plugin modification for the PhoenixFreedom server.
 
 ![Spigot](https://unraveledmc.com/githubapi?spigotver)
 ![Aero](https://unraveledmc.com/githubapi?aerover)
@@ -24,8 +24,8 @@ In the FUtil class file, it would be nice if you keep the UMCDEVS list there, bu
 ### Download ###
 You may download official binaries from the [releases page](https://github.com/TotalFreedom/TotalFreedomMod/releases).
 
-# UnraveledMCMod #
-UnraveledMCMod is a clone of TotalFreedomMod that's heavily modified. Now because it's cloned, we must comply with the TFM license:
+# PhoenixFreedomMod #
+PhoenixFreedomMod is a clone of TotalFreedomMod that's heavily modified. Now because it's cloned, we must comply with the TFM license:
 
 Due to the the TFM license, we are not allowed to release official release jars of the plugin. You must compile the plugin with netbeans. Attempting to obtain money for compiling the plugin is strictly forbidden and illegal.
 
