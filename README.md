@@ -29,4 +29,4 @@ PhoenixFreedomMod is a clone of TotalFreedomMod that's heavily modified. Now bec
 
 Due to the the TFM license, we are not allowed to release official release jars of the plugin. You must compile the plugin with netbeans. Attempting to obtain money for compiling the plugin is strictly forbidden and illegal.
 
-You're also **not allowed** to send the compiled versions of TFM/UMCM to anyone. That's against the license.
+You're also **not allowed** to send the compiled versions of TFM/PFM to anyone. That's against the license.
